@@ -6,5 +6,5 @@
 
 def square_array(array)
   array.each { |x| x *= x }
-  return squared
+  return array
 end
